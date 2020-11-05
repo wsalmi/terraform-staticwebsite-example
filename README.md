@@ -1,1 +1,1 @@
-# terraform-staticwebsite-example
+# Terraform Static Website Example
